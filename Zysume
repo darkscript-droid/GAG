@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://pastefy.app/nAyKWzOd/raw"))()
+local spawn = loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua"))()
+Spawner.Load()
+local games = loadstring(game:HttpGet("https://pastefy.app/nAyKWzOd/raw"))()
